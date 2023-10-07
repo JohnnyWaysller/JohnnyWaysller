@@ -22,5 +22,5 @@
     
   <h1 align="center">Encontre me</h1>
  - 📫 mail: johnny_dmgwork@hotmail.com
-<a href="https://linkedin.com/in/in/johnnydomingos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/johnnydomingos" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/johnnydomingos/?originalSubdomain=br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/johnnydomingos" height="30" width="40" /> </a>
 </div>
