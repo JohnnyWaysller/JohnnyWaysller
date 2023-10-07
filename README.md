@@ -5,7 +5,6 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyWaysller&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyWaysller&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -17,8 +16,8 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-    
    </div>
+   <br>
     
   <h1 align="center">Encontre me</h1>
  - 📫 mail: johnny_dmgwork@hotmail.com
