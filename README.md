@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Bem vindo sou o Johnny ✌️</h1>
-<h3 align="center">Futuro dev e estudante de sistemas👨‍💻 em especialização. 💻sou entusiasta das ferramentas digitais, em jornada na programação ! #DevJohnny</h3><br><br>
+<h1 align="center">Olá! Bem vindo✌️</h1>
+<h3 align="center">Sou o Johnny futuro dev, estudante de sistemas👨‍💻 em especialização. 💻sou entusiasta das ferramentas digitais, em jornada na programação me especializando em desenvolvimento web! #DevJohnny</h3><br><br>
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyWaysller&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
