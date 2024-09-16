@@ -16,6 +16,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" height="32" width="30" alt="c-icon" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/>
    </div>
    <br>
     
