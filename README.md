@@ -1,10 +1,10 @@
 <h1 align="center">Olá! Bem vindo✌️</h1>
-<h3 align="center">Sou o Johnny futuro dev, estudante de sistemas👨‍💻 em especialização. 💻sou entusiasta das ferramentas digitais, em jornada na programação me especializando em desenvolvimento web! #DevJohnny</h3><br><br>
-
+<h3 align="center">Sou o Johnny futuro dev, estudante de sistemas👨‍💻 em especialização. 💻sou entusiasta das ferramentas digitais, em jornada na programação me especializando em desenvolvimento web! #DevJohnny</h3><br>
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyWaysller&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyWaysller&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br><br>
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
