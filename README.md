@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Bem vindo✌️</h1>
-<h3 align="center">Sou o Johnny futuro dev, estudante de sistemas👨‍💻 em especialização. Sou entusiasta das ferramentas digitais, em jornada na programação me especializando em desenvolvimento web! #DevJohnny</h3><br>
+<h3 align="center">Sou o Johnny estudante de programação e tecnologias de desenvolvimento 👨‍💻 em especialização. Sou entusiasta de tecnologia,  e atualmente estou me especializando em desenvolvimento web! #DevJohnny</h3><br>
 <div style="display: inline_block">
   <div align="center">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyWaysller&layout=compact&langs_count=16&theme=great-gatsby"/>
